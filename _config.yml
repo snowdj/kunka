@@ -42,7 +42,7 @@ timezone:      null
 title: Jekyll Theme
 description: Just another Jekyll theme design and code by zhanxin.info.
 keywords: Jekyll Theme
-url: http://pizn.github.io/kunka
+url: http://snowdj.github.io/kunka
 feed: /atom.xml
 favicon: http://jekyllrb.com/favicon.png
 
@@ -78,7 +78,7 @@ follow:
   - class: icon-renren
     url: http://renren.com
   - class: icon-github-alt
-    url: http://github.com/pizn
+    url: http://github.com/snowdj
   - class: icon-twitter
     url: http://twitter.com/piznlin
   - class: icon-google-plus
@@ -111,7 +111,7 @@ googleAnaly:
 #comment config
 disqus:
   config: false
-  id: piznblog
+  id: snowdj
 
 duoshuo:
   config: true
